@@ -9,12 +9,11 @@ body{
 	overflow-x: hidden; 
 	color: white;
 	font-family: 'Flamenco', cursive;
-	background-image: url('gandhiji.jpg');
 }
 
 
 header{
-	background-image: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.6)), url('chef2.jpg');
+	background-image: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.6)), url('gandhiji.jpg');
 	background-size: cover;
 	background-repeat: no-repeat;
 	height: 100vh;
